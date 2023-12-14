@@ -1,4 +1,4 @@
-#Repository untuk penugasan pkl
+**Repository untuk penugasan pkl**
 
 
 Aplikasi manajemen inventori ini dibangun menggunakan framework laravel. Pengguna dapat melakukan Create, Read, Update, Delete (CRUD). 
